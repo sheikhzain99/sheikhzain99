@@ -117,8 +117,5 @@
   <img src="https://profile-counter.glitch.me/sheikhzain99/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/sheikhzain99/sheikhzain99/output/snake.svg" alt="Snake animation" />
 
 ###
